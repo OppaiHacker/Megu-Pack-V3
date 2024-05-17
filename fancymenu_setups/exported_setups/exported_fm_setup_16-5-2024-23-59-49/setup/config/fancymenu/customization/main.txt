@@ -1,0 +1,146 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/assets/bg.png
+  action = texturizebackground
+}
+
+customization {
+  path = config/fancymenu/assets/music.wav
+  loop = true
+  action = addaudio
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  rotation = 20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = true
+  x = 118
+  actionid = 4ea8770c-c905-4162-a4ca-df5d08d3146f1715892155707
+  action = addsplash
+  y = 81
+  text = Getting ready to shock!
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = true
+  x = 146
+  slim = false
+  actionid = ba4bbf1f-fda8-4bb1-9ae4-f932aa80e2b61715892235116
+  action = addentity
+  y = 538
+  scale = 300
+  parrot = true
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = false
+  delayappearanceseconds = 1.0
+  buttonaction = joinserver;26.107.105.153:2137%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/assets/pantsu.jpg
+  label = Dawaj Do Mnie Kurwo
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 818
+  width = 110
+  action = addbutton
+  actionid = 043ddff5-7e6f-47c6-99c9-13d7f00866a31715892485482
+  y = 357
+  delayappearance = true
+  backgroundnormal = config/fancymenu/assets/pantsu.jpg
+  delayappearanceeverytime = true
+  height = 153
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = 308
+  width = 58
+  action = addbutton
+  actionid = bfcdf787-c89c-4791-998b-32c3be550e141715892821942
+  y = 471
+  description = Ja to robilem wiec nie dziala XDDDD
+  label = Exit
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.youtube.com/watch?v=IPsQRRknzSQ%btnaction_splitter_fm%
+  x = 423
+  width = 65
+  action = addbutton
+  actionid = a8cccffd-36e3-4011-9e43-29c7f8513ced1715893185038
+  y = 468
+  label = Ustawienia
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton;net.minecraft.client.gui.GuiMultiplayer:450948%btnaction_splitter_fm%
+  x = 0
+  width = 5
+  action = addbutton
+  actionid = 0c09eaa1-6273-4b2a-bbed-3490a04cbba61715893306203
+  y = 535
+  label = 
+  height = 5
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.client.gui.GuiWorldSelection%btnaction_splitter_fm%
+  x = 0
+  width = 5
+  action = addbutton
+  actionid = a75dedf9-b576-46f7-ad8d-bd94b9c708651715896178064
+  y = 527
+  label = 
+  height = 6
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = 6
+  width = 5
+  action = addbutton
+  actionid = a616db85-12f8-43d3-95fe-e71dce02dc6b1715896625811
+  y = 534
+  label = 
+  height = 6
+}
+
