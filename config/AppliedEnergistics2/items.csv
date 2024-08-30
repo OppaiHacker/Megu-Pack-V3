@@ -1210,6 +1210,10 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid D-T Fuel
 hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Lithium
 hbm:fluid_tank_full:0, Universal Fluid Tank: Heavy Water
 hbm:fluid_tank_full:0, Universal Fluid Tank: Steam
+hbm:fluid_tank_full:0, Universal Fluid Tank: Canola Oil
+hbm:fluid_tank_full:0, Universal Fluid Tank: Refined Canola Oil
+hbm:fluid_tank_full:0, Universal Fluid Tank: Crystallized Oil
+hbm:fluid_tank_full:0, Universal Fluid Tank: Empowered Oil
 hbm:fluid_tank_full:0, Universal Fluid Tank: Evil Infused Iron
 hbm:fluid_tank_full:0, Universal Fluid Tank: Enchanted Metal
 hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Demon Metal
@@ -1333,6 +1337,10 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Liquid D-T Fuel
 hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Lithium
 hbm:fluid_barrel_full:0, Fluid Barrel: Heavy Water
 hbm:fluid_barrel_full:0, Fluid Barrel: Steam
+hbm:fluid_barrel_full:0, Fluid Barrel: Canola Oil
+hbm:fluid_barrel_full:0, Fluid Barrel: Refined Canola Oil
+hbm:fluid_barrel_full:0, Fluid Barrel: Crystallized Oil
+hbm:fluid_barrel_full:0, Fluid Barrel: Empowered Oil
 hbm:fluid_barrel_full:0, Fluid Barrel: Evil Infused Iron
 hbm:fluid_barrel_full:0, Fluid Barrel: Enchanted Metal
 hbm:fluid_barrel_full:0, Fluid Barrel: Molten Demon Metal
@@ -3573,6 +3581,10 @@ hbm:fluid_icon:0, Liquid D-T Fuel
 hbm:fluid_icon:0, Liquid Lithium
 hbm:fluid_icon:0, Heavy Water
 hbm:fluid_icon:0, Steam
+hbm:fluid_icon:0, Canola Oil
+hbm:fluid_icon:0, Refined Canola Oil
+hbm:fluid_icon:0, Crystallized Oil
+hbm:fluid_icon:0, Empowered Oil
 hbm:fluid_icon:0, Evil Infused Iron
 hbm:fluid_icon:0, Enchanted Metal
 hbm:fluid_icon:0, Molten Demon Metal
@@ -6500,6 +6512,64 @@ appliedenergistics2:facade:0, Cable Facade - Dark Matter Block
 appliedenergistics2:facade:0, Cable Facade - Red Matter Block
 appliedenergistics2:facade:0, Cable Facade - Nova Catalyst
 appliedenergistics2:facade:0, Cable Facade - Nova Cataclysm
+appliedenergistics2:facade:0, Cable Facade - Restonia Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Palis Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Diamatine Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Void Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Emeradic Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Enori Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Empowered Restonia Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Empowered Palis Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Empowered Diamatine Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Empowered Void Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Empowered Emeradic Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Empowered Enori Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Ethetic Green Block
+appliedenergistics2:facade:0, Cable Facade - Ethetic Quartz
+appliedenergistics2:facade:0, Cable Facade - White Lamp
+appliedenergistics2:facade:0, Cable Facade - Orange Lamp
+appliedenergistics2:facade:0, Cable Facade - Magenta Lamp
+appliedenergistics2:facade:0, Cable Facade - Light Blue Lamp
+appliedenergistics2:facade:0, Cable Facade - Yellow Lamp
+appliedenergistics2:facade:0, Cable Facade - Lime Lamp
+appliedenergistics2:facade:0, Cable Facade - Pink Lamp
+appliedenergistics2:facade:0, Cable Facade - Gray Lamp
+appliedenergistics2:facade:0, Cable Facade - Light Gray Lamp
+appliedenergistics2:facade:0, Cable Facade - Cyan Lamp
+appliedenergistics2:facade:0, Cable Facade - Purple Lamp
+appliedenergistics2:facade:0, Cable Facade - Blue Lamp
+appliedenergistics2:facade:0, Cable Facade - Brown Lamp
+appliedenergistics2:facade:0, Cable Facade - Green Lamp
+appliedenergistics2:facade:0, Cable Facade - Red Lamp
+appliedenergistics2:facade:0, Cable Facade - Black Lamp
+appliedenergistics2:facade:0, Cable Facade - White Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Orange Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Magenta Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Light Blue Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Yellow Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Lime Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Pink Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Gray Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Light Gray Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Cyan Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Purple Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Blue Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Brown Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Green Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Red Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Black Lamp (On)
+appliedenergistics2:facade:0, Cable Facade - Lamp Controller
+appliedenergistics2:facade:0, Cable Facade - Treasure Chest
+appliedenergistics2:facade:0, Cable Facade - Pillar of Black Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Block of Black Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Black Quartz
+appliedenergistics2:facade:0, Cable Facade - Black Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Wood Casing
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Block of Enderpearl
+appliedenergistics2:facade:0, Cable Facade - Casing
+appliedenergistics2:facade:0, Cable Facade - Ender Casing
+appliedenergistics2:facade:0, Cable Facade - Iron Casing
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -6854,34 +6924,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Fletching Pattern
 tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -7780,62 +7850,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -8525,6 +8595,7 @@ mysticalagriculture:manyullyn_crop, Manyullyn Crop
 mysticalagriculture:osmium_crop, Osmium Crop
 mysticalagriculture:glowstone_ingot_crop, Glowstone Ingot Crop
 mysticalagriculture:refined_obsidian_crop, Refined Obsidian Crop
+mysticalagriculture:black_quartz_crop, Black Quartz Crop
 mysticalagriculture:sky_stone_crop, Sky Stone Crop
 mysticalagriculture:certus_quartz_crop, Certus Quartz Crop
 mysticalagriculture:fluix_crop, Fluix Crop
@@ -8664,6 +8735,7 @@ mysticalagriculture:manyullyn_essence, Manyullyn Essence
 mysticalagriculture:osmium_essence, Osmium Essence
 mysticalagriculture:glowstone_ingot_essence, Glowstone Ingot Essence
 mysticalagriculture:refined_obsidian_essence, Refined Obsidian Essence
+mysticalagriculture:black_quartz_essence, Black Quartz Essence
 mysticalagriculture:sky_stone_essence, Sky Stone Essence
 mysticalagriculture:certus_quartz_essence, Certus Quartz Essence
 mysticalagriculture:fluix_essence, Fluix Essence
@@ -8721,6 +8793,7 @@ mysticalagriculture:manyullyn_seeds, Manyullyn Seeds
 mysticalagriculture:osmium_seeds, Osmium Seeds
 mysticalagriculture:glowstone_ingot_seeds, Glowstone Ingot Seeds
 mysticalagriculture:refined_obsidian_seeds, Refined Obsidian Seeds
+mysticalagriculture:black_quartz_seeds, Black Quartz Seeds
 mysticalagriculture:sky_stone_seeds, Sky Stone Seeds
 mysticalagriculture:certus_quartz_seeds, Certus Quartz Seeds
 mysticalagriculture:fluix_seeds, Fluix Seeds
@@ -8949,6 +9022,471 @@ projecte:item.pe_catalitic_lens, Catalytic Lens
 projecte:item.pe_tome, Tome of Knowledge
 projecte:item.pe_transmutation_tablet, Transmutation Tablet
 projecte:item.pe_manual, Book of the Alchemist [WIP]
+actuallyadditions:block_canola_oil, Canola Oil
+actuallyadditions:block_refined_canola_oil, Refined Canola Oil
+actuallyadditions:block_crystal_oil, Crystallized Oil
+actuallyadditions:block_empowered_oil, Empowered Oil
+actuallyadditions:block_crystal_cluster_redstone, Red Crystal Cluster
+actuallyadditions:block_crystal_cluster_lapis, Blue Crystal Cluster
+actuallyadditions:block_crystal_cluster_diamond, Light Blue Crystal Cluster
+actuallyadditions:block_crystal_cluster_coal, Black Crystal Cluster
+actuallyadditions:block_crystal_cluster_emerald, Green Crystal Cluster
+actuallyadditions:block_crystal_cluster_iron, White Crystal Cluster
+actuallyadditions:block_battery_box, Battery Box
+actuallyadditions:block_item_viewer_hopping, Hopping Item Interface
+actuallyadditions:block_farmer, Farmer
+actuallyadditions:block_bio_reactor, Bio Reactor
+actuallyadditions:block_empowerer, Empowerer
+actuallyadditions:block_tiny_torch, Tiny Torch
+actuallyadditions:block_shock_suppressor, Shock Absorber
+actuallyadditions:block_display_stand, Display Stand
+actuallyadditions:block_player_interface, Player Interface
+actuallyadditions:block_item_viewer, Item Interface
+actuallyadditions:block_firework_box, Firework Box
+actuallyadditions:block_miner, Vertical Digger
+actuallyadditions:block_atomic_reconstructor, Atomic Reconstructor
+actuallyadditions:block_crystal:0, Restonia Crystal Block
+actuallyadditions:block_crystal:1, Palis Crystal Block
+actuallyadditions:block_crystal:2, Diamatine Crystal Block
+actuallyadditions:block_crystal:3, Void Crystal Block
+actuallyadditions:block_crystal:4, Emeradic Crystal Block
+actuallyadditions:block_crystal:5, Enori Crystal Block
+actuallyadditions:block_crystal_empowered:0, Empowered Restonia Crystal Block
+actuallyadditions:block_crystal_empowered:1, Empowered Palis Crystal Block
+actuallyadditions:block_crystal_empowered:2, Empowered Diamatine Crystal Block
+actuallyadditions:block_crystal_empowered:3, Empowered Void Crystal Block
+actuallyadditions:block_crystal_empowered:4, Empowered Emeradic Crystal Block
+actuallyadditions:block_crystal_empowered:5, Empowered Enori Crystal Block
+actuallyadditions:block_black_lotus, Black Lotus
+actuallyadditions:block_laser_relay, Energy Laser Relay
+actuallyadditions:block_laser_relay_advanced, Advanced Energy Laser Relay
+actuallyadditions:block_laser_relay_extreme, Extreme Energy Laser Relay
+actuallyadditions:block_laser_relay_fluids, Fluid Laser Relay
+actuallyadditions:block_laser_relay_item, Item Laser Relay
+actuallyadditions:block_laser_relay_item_whitelist, Advanced Item Laser Relay
+actuallyadditions:block_ranged_collector, Ranged Collector
+actuallyadditions:block_directional_breaker, Long-Range Breaker
+actuallyadditions:block_leaf_generator, Leaf-Eating Generator
+actuallyadditions:block_smiley_cloud, Smiley Cloud
+actuallyadditions:block_xp_solidifier, Experience Solidifier
+actuallyadditions:block_testifi_bucks_green_wall, Ethetic Green Block
+actuallyadditions:block_testifi_bucks_white_wall, Ethetic Quartz
+actuallyadditions:block_testifi_bucks_green_stairs, Ethetic Green Stairs
+actuallyadditions:block_testifi_bucks_white_stairs, Ethetic Quartz Stairs
+actuallyadditions:block_testifi_bucks_green_slab, Ethetic Green Slab
+actuallyadditions:block_testifi_bucks_white_slab, Ethetic Quartz Slab
+actuallyadditions:block_testifi_bucks_green_fence, Ethetic Green Wall
+actuallyadditions:block_testifi_bucks_white_fence, Ethetic Quartz Wall
+actuallyadditions:block_colored_lamp:0, White Lamp
+actuallyadditions:block_colored_lamp:1, Orange Lamp
+actuallyadditions:block_colored_lamp:2, Magenta Lamp
+actuallyadditions:block_colored_lamp:3, Light Blue Lamp
+actuallyadditions:block_colored_lamp:4, Yellow Lamp
+actuallyadditions:block_colored_lamp:5, Lime Lamp
+actuallyadditions:block_colored_lamp:6, Pink Lamp
+actuallyadditions:block_colored_lamp:7, Gray Lamp
+actuallyadditions:block_colored_lamp:8, Light Gray Lamp
+actuallyadditions:block_colored_lamp:9, Cyan Lamp
+actuallyadditions:block_colored_lamp:10, Purple Lamp
+actuallyadditions:block_colored_lamp:11, Blue Lamp
+actuallyadditions:block_colored_lamp:12, Brown Lamp
+actuallyadditions:block_colored_lamp:13, Green Lamp
+actuallyadditions:block_colored_lamp:14, Red Lamp
+actuallyadditions:block_colored_lamp:15, Black Lamp
+actuallyadditions:block_colored_lamp_on:0, White Lamp (On)
+actuallyadditions:block_colored_lamp_on:1, Orange Lamp (On)
+actuallyadditions:block_colored_lamp_on:2, Magenta Lamp (On)
+actuallyadditions:block_colored_lamp_on:3, Light Blue Lamp (On)
+actuallyadditions:block_colored_lamp_on:4, Yellow Lamp (On)
+actuallyadditions:block_colored_lamp_on:5, Lime Lamp (On)
+actuallyadditions:block_colored_lamp_on:6, Pink Lamp (On)
+actuallyadditions:block_colored_lamp_on:7, Gray Lamp (On)
+actuallyadditions:block_colored_lamp_on:8, Light Gray Lamp (On)
+actuallyadditions:block_colored_lamp_on:9, Cyan Lamp (On)
+actuallyadditions:block_colored_lamp_on:10, Purple Lamp (On)
+actuallyadditions:block_colored_lamp_on:11, Blue Lamp (On)
+actuallyadditions:block_colored_lamp_on:12, Brown Lamp (On)
+actuallyadditions:block_colored_lamp_on:13, Green Lamp (On)
+actuallyadditions:block_colored_lamp_on:14, Red Lamp (On)
+actuallyadditions:block_colored_lamp_on:15, Black Lamp (On)
+actuallyadditions:block_lamp_powerer, Lamp Controller
+actuallyadditions:block_treasure_chest, Treasure Chest
+actuallyadditions:block_energizer, Energizer
+actuallyadditions:block_enervator, Enervator
+actuallyadditions:block_lava_factory_controller, Lava Factory Controller
+actuallyadditions:block_canola_press, Canola Press
+actuallyadditions:block_phantomface, Phantomface
+actuallyadditions:block_phantom_placer, Phantom Placer
+actuallyadditions:block_phantom_liquiface, Phantom Liquiface
+actuallyadditions:block_phantom_energyface, Phantom Energyface
+actuallyadditions:block_phantom_redstoneface, Phantom Redstoneface
+actuallyadditions:block_phantom_breaker, Phantom Breaker
+actuallyadditions:block_coal_generator, Coal Generator
+actuallyadditions:block_oil_generator, Oil Generator
+actuallyadditions:block_fermenting_barrel, Fermenting Barrel
+actuallyadditions:block_rice, Rice Plant
+actuallyadditions:block_canola, Canola Plant
+actuallyadditions:block_flax, Flax Plant
+actuallyadditions:block_coffee, Coffee Plant
+actuallyadditions:block_compost, Compost
+actuallyadditions:block_misc:0, Pillar of Black Quartz
+actuallyadditions:block_misc:1, Chiseled Block of Black Quartz
+actuallyadditions:block_misc:2, Block of Black Quartz
+actuallyadditions:block_misc:3, Black Quartz Ore
+actuallyadditions:block_misc:4, Wood Casing
+actuallyadditions:block_misc:5, Block of Charcoal
+actuallyadditions:block_misc:6, Block of Enderpearl
+actuallyadditions:block_misc:7, Casing
+actuallyadditions:block_misc:8, Ender Casing
+actuallyadditions:block_misc:9, Iron Casing
+actuallyadditions:block_feeder, Automatic Feeder
+actuallyadditions:block_giant_chest, Small Storage Crate
+actuallyadditions:block_giant_chest_medium, Medium Storage Crate
+actuallyadditions:block_giant_chest_large, Large Storage Crate
+actuallyadditions:block_grinder, Crusher
+actuallyadditions:block_grinder_double, Double Crusher
+actuallyadditions:block_furnace_double, Powered Furnace
+actuallyadditions:block_inputter, ESD
+actuallyadditions:block_inputter_advanced, Advanced ESD
+actuallyadditions:block_fishing_net, Fishing Net
+actuallyadditions:block_furnace_solar, Solar Panel
+actuallyadditions:block_heat_collector, Heat Collector
+actuallyadditions:block_item_repairer, Item Repairer
+actuallyadditions:block_greenhouse_glass, Greenhouse Glass
+actuallyadditions:block_breaker, Auto-Breaker
+actuallyadditions:block_placer, Auto-Placer
+actuallyadditions:block_dropper, Automatic Precision Dropper
+actuallyadditions:block_fluid_placer, Fluid Placer
+actuallyadditions:block_fluid_collector, Fluid Collector
+actuallyadditions:block_coffee_machine, Coffee Maker
+actuallyadditions:block_phantom_booster, Phantom Booster
+actuallyadditions:block_wild:0, Wild Canola
+actuallyadditions:block_wild:1, Wild Flax
+actuallyadditions:block_wild:2, Wild Rice
+actuallyadditions:block_wild:3, Wild Coffee
+actuallyadditions:block_quartz_wall, Black Quartz Wall
+actuallyadditions:block_chiseled_quartz_wall, Chiseled Black Quartz Wall
+actuallyadditions:block_pillar_quartz_wall, Black Quartz Pillar Wall
+actuallyadditions:block_quartz_stair, Black Quartz Stairs
+actuallyadditions:block_chiseled_quartz_stair, Chiseled Black Quartz Stairs
+actuallyadditions:block_pillar_quartz_stair, Black Quartz Pillar Stairs
+actuallyadditions:block_quartz_slab, Black Quartz Slab
+actuallyadditions:block_chiseled_quartz_slab, Chiseled Black Quartz Slab
+actuallyadditions:block_pillar_quartz_slab, Black Quartz Pillar Slab
+actuallyadditions:item_crystal_shard:0, Red Crystal Shard
+actuallyadditions:item_crystal_shard:1, Blue Crystal Shard
+actuallyadditions:item_crystal_shard:2, Light Blue Crystal Shard
+actuallyadditions:item_crystal_shard:3, Black Crystal Shard
+actuallyadditions:item_crystal_shard:4, Green Crystal Shard
+actuallyadditions:item_crystal_shard:5, White Crystal Shard
+actuallyadditions:item_engineer_goggles_advanced, Engineer's Infrared Goggles
+actuallyadditions:item_engineer_goggles, Engineer's Goggles
+actuallyadditions:item_laser_upgrade_range, Laser Relay Modifier: Range
+actuallyadditions:item_laser_upgrade_invisibility, Laser Relay Modifier: Invisibility
+actuallyadditions:item_filling_wand:0, Handheld Filler
+actuallyadditions:item_filling_wand:0, Handheld Filler
+actuallyadditions:item_bag, Traveler's Sack
+actuallyadditions:item_void_bag, Void Sack
+actuallyadditions:item_worm, Worm
+actuallyadditions:item_player_probe, Player Probe
+actuallyadditions:item_filter, Item Filter
+actuallyadditions:item_water_bowl, Bowl of Water
+actuallyadditions:item_spawner_changer, Spawner Changer
+actuallyadditions:item_misc:0, Paper Cone
+actuallyadditions:item_misc:1, Bio-Mash
+actuallyadditions:item_misc:2, Knife Blade
+actuallyadditions:item_misc:3, Knife Handle
+actuallyadditions:item_misc:4, Dough
+actuallyadditions:item_misc:5, Black Quartz
+actuallyadditions:item_misc:6, Ring
+actuallyadditions:item_misc:7, Basic Coil
+actuallyadditions:item_misc:8, Advanced Coil
+actuallyadditions:item_misc:9, Rice Dough
+actuallyadditions:item_misc:10, Tiny Coal
+actuallyadditions:item_misc:11, Tiny Charcoal
+actuallyadditions:item_misc:12, Rice Slimeball
+actuallyadditions:item_misc:13, Canola
+actuallyadditions:item_misc:14, Empty Cup
+actuallyadditions:item_misc:15, Bat's Wing
+actuallyadditions:item_misc:16, Drill Core
+actuallyadditions:item_misc:17, Black Dye
+actuallyadditions:item_misc:18, Lens
+actuallyadditions:item_misc:19, Ender Star
+actuallyadditions:item_misc:20, Spawner Shards
+actuallyadditions:item_misc:21, Biomass
+actuallyadditions:item_misc:22, Bio Coal
+actuallyadditions:item_misc:23, Crystallized Canola Seed
+actuallyadditions:item_misc:24, Empowered Canola Seed
+actuallyadditions:item_crate_keeper, Storage Crate Keeper
+actuallyadditions:item_color_lens, Lens of Color
+actuallyadditions:item_explosion_lens, Lens of Detonation
+actuallyadditions:item_damage_lens, Lens of Certain Death
+actuallyadditions:item_more_damage_lens, Lens of the Killer
+actuallyadditions:item_disenchanting_lens, Lens of Disenchanting
+actuallyadditions:item_mining_lens, Lens of the Miner
+actuallyadditions:item_crystal:0, Restonia Crystal
+actuallyadditions:item_crystal:1, Palis Crystal
+actuallyadditions:item_crystal:2, Diamatine Crystal
+actuallyadditions:item_crystal:3, Void Crystal
+actuallyadditions:item_crystal:4, Emeradic Crystal
+actuallyadditions:item_crystal:5, Enori Crystal
+actuallyadditions:item_crystal_empowered:0, Empowered Restonia Crystal
+actuallyadditions:item_crystal_empowered:1, Empowered Palis Crystal
+actuallyadditions:item_crystal_empowered:2, Empowered Diamatine Crystal
+actuallyadditions:item_crystal_empowered:3, Empowered Void Crystal
+actuallyadditions:item_crystal_empowered:4, Empowered Emeradic Crystal
+actuallyadditions:item_crystal_empowered:5, Empowered Enori Crystal
+actuallyadditions:item_laser_wrench, Laser Wrench
+actuallyadditions:item_chest_to_crate_upgrade, Chest To Storage Crate Upgrade
+actuallyadditions:item_small_to_medium_crate_upgrade, Small To Medium Storage Crate Upgrade
+actuallyadditions:item_medium_to_large_crate_upgrade, Medium To Large Storage Crate Upgrade
+actuallyadditions:item_booklet, Actually Additions Manual
+actuallyadditions:item_growth_ring:0, Ring of Growth
+actuallyadditions:item_growth_ring:0, Ring of Growth
+actuallyadditions:item_suction_ring:0, Ring of Magnetizing
+actuallyadditions:item_suction_ring:0, Ring of Magnetizing
+actuallyadditions:item_water_removal_ring:0, Ring of Liquid Banning
+actuallyadditions:item_water_removal_ring:0, Ring of Liquid Banning
+actuallyadditions:item_helm_emerald, Emerald Helmet
+actuallyadditions:item_chest_emerald, Emerald Chestplate
+actuallyadditions:item_pants_emerald, Emerald Pants
+actuallyadditions:item_boots_emerald, Emerald Boots
+actuallyadditions:item_helm_obsidian, Obsidian Helmet
+actuallyadditions:item_chest_obsidian, Obsidian Chestplate
+actuallyadditions:item_pants_obsidian, Obsidian Pants
+actuallyadditions:item_boots_obsidian, Obsidian Boots
+actuallyadditions:item_helm_quartz, Black Quartz Helmet
+actuallyadditions:item_chest_quartz, Black Quartz Chestplate
+actuallyadditions:item_pants_quartz, Black Quartz Pants
+actuallyadditions:item_boots_quartz, Black Quartz Boots
+actuallyadditions:item_tele_staff:0, Teleport Staff
+actuallyadditions:item_tele_staff:0, Teleport Staff
+actuallyadditions:item_wings_of_the_bats, Wings Of The Bats
+actuallyadditions:item_drill:0, Drill
+actuallyadditions:item_drill:0, Drill
+actuallyadditions:item_drill:1, Drill
+actuallyadditions:item_drill:1, Drill
+actuallyadditions:item_drill:2, Drill
+actuallyadditions:item_drill:2, Drill
+actuallyadditions:item_drill:3, Drill
+actuallyadditions:item_drill:3, Drill
+actuallyadditions:item_drill:4, Drill
+actuallyadditions:item_drill:4, Drill
+actuallyadditions:item_drill:5, Drill
+actuallyadditions:item_drill:5, Drill
+actuallyadditions:item_drill:6, Drill
+actuallyadditions:item_drill:6, Drill
+actuallyadditions:item_drill:7, Drill
+actuallyadditions:item_drill:7, Drill
+actuallyadditions:item_drill:8, Drill
+actuallyadditions:item_drill:8, Drill
+actuallyadditions:item_drill:9, Drill
+actuallyadditions:item_drill:9, Drill
+actuallyadditions:item_drill:10, Drill
+actuallyadditions:item_drill:10, Drill
+actuallyadditions:item_drill:11, Drill
+actuallyadditions:item_drill:11, Drill
+actuallyadditions:item_drill:12, Drill
+actuallyadditions:item_drill:12, Drill
+actuallyadditions:item_drill:13, Drill
+actuallyadditions:item_drill:13, Drill
+actuallyadditions:item_drill:14, Drill
+actuallyadditions:item_drill:14, Drill
+actuallyadditions:item_drill:15, Drill
+actuallyadditions:item_drill:15, Drill
+actuallyadditions:item_battery:0, Single Battery
+actuallyadditions:item_battery:0, Single Battery
+actuallyadditions:item_battery_double:0, Double Battery
+actuallyadditions:item_battery_double:0, Double Battery
+actuallyadditions:item_battery_triple:0, Triple Battery
+actuallyadditions:item_battery_triple:0, Triple Battery
+actuallyadditions:item_battery_quadruple:0, Quadruple Battery
+actuallyadditions:item_battery_quadruple:0, Quadruple Battery
+actuallyadditions:item_battery_quintuple:0, Quintuple Battery
+actuallyadditions:item_battery_quintuple:0, Quintuple Battery
+actuallyadditions:item_drill_upgrade_speed, Drill Speed Augment I
+actuallyadditions:item_drill_upgrade_speed_ii, Drill Speed Augment II
+actuallyadditions:item_drill_upgrade_speed_iii, Drill Speed Augment III
+actuallyadditions:item_drill_upgrade_silk_touch, Drill Silk Touch Augment
+actuallyadditions:item_drill_upgrade_fortune, Drill Fortune Augment I
+actuallyadditions:item_drill_upgrade_fortune_ii, Drill Fortune Augment II (Gives Fortune III!)
+actuallyadditions:item_drill_upgrade_three_by_three, Drill Mining Augment I
+actuallyadditions:item_drill_upgrade_five_by_five, Drill Mining Augment II
+actuallyadditions:item_drill_upgrade_block_placing, Drill Block Placing Augment
+actuallyadditions:item_fertilizer, Fertilizer
+actuallyadditions:item_coffee, Cup with Coffee
+actuallyadditions:item_phantom_connector, Phantom Connector
+actuallyadditions:item_resonant_rice, Resonant Rice
+actuallyadditions:item_food:0, Cheese
+actuallyadditions:item_food:1, Pumpkin Stew
+actuallyadditions:item_food:2, Carrot Juice
+actuallyadditions:item_food:3, Fish 'N' Chips
+actuallyadditions:item_food:4, French Fries
+actuallyadditions:item_food:5, French Fry
+actuallyadditions:item_food:6, Spaghetti
+actuallyadditions:item_food:7, Noodle
+actuallyadditions:item_food:8, Chocolate Cake
+actuallyadditions:item_food:9, Chocolate
+actuallyadditions:item_food:10, Toast
+actuallyadditions:item_food:11, Submarine Sandwich
+actuallyadditions:item_food:12, Big Cookie
+actuallyadditions:item_food:13, Hamburger
+actuallyadditions:item_food:14, Pizza
+actuallyadditions:item_food:15, Baguette
+actuallyadditions:item_food:16, Rice
+actuallyadditions:item_food:17, Rice Bread
+actuallyadditions:item_food:18, Doughnut
+actuallyadditions:item_food:19, Toast o' Chocolate
+actuallyadditions:item_food:20, Bacon
+actuallyadditions:item_jam:0, CuBaRa-Jam
+actuallyadditions:item_jam:1, GraKiBa-Jam
+actuallyadditions:item_jam:2, PlApLe-Jam
+actuallyadditions:item_jam:3, ChApCi-Jam
+actuallyadditions:item_jam:4, HoMeKi-Jam
+actuallyadditions:item_jam:5, PiCo-Jam
+actuallyadditions:item_jam:6, HoMeCo-Jam
+actuallyadditions:item_knife, Knife
+actuallyadditions:item_crafter_on_a_stick, Crafting Table On A Stick
+actuallyadditions:item_dust:0, Crushed Iron
+actuallyadditions:item_dust:1, Crushed Gold
+actuallyadditions:item_dust:2, Crushed Diamond
+actuallyadditions:item_dust:3, Crushed Emerald
+actuallyadditions:item_dust:4, Crushed Lapis
+actuallyadditions:item_dust:5, Crushed Quartz
+actuallyadditions:item_dust:6, Crushed Coal
+actuallyadditions:item_dust:7, Crushed Black Quartz
+actuallyadditions:item_solidified_experience, Solidified Experience
+actuallyadditions:item_leaf_blower, Leaf Blower
+actuallyadditions:item_leaf_blower_advanced, Advanced Leaf Blower
+actuallyadditions:item_potion_ring:0, Ring of Speed
+actuallyadditions:item_potion_ring:0, Ring of Speed
+actuallyadditions:item_potion_ring:1, Ring of Haste
+actuallyadditions:item_potion_ring:1, Ring of Haste
+actuallyadditions:item_potion_ring:2, Ring of Strength
+actuallyadditions:item_potion_ring:2, Ring of Strength
+actuallyadditions:item_potion_ring:3, Ring of Jump Boost
+actuallyadditions:item_potion_ring:3, Ring of Jump Boost
+actuallyadditions:item_potion_ring:4, Ring of Regeneration
+actuallyadditions:item_potion_ring:4, Ring of Regeneration
+actuallyadditions:item_potion_ring:5, Ring of Resistance
+actuallyadditions:item_potion_ring:5, Ring of Resistance
+actuallyadditions:item_potion_ring:6, Ring of Fire Resistance
+actuallyadditions:item_potion_ring:6, Ring of Fire Resistance
+actuallyadditions:item_potion_ring:7, Ring of Water Breathing
+actuallyadditions:item_potion_ring:7, Ring of Water Breathing
+actuallyadditions:item_potion_ring:8, Ring of Invisibility
+actuallyadditions:item_potion_ring:8, Ring of Invisibility
+actuallyadditions:item_potion_ring:9, Ring of Night Vision
+actuallyadditions:item_potion_ring:9, Ring of Night Vision
+actuallyadditions:item_potion_ring_advanced:0, Advanced Ring of Speed
+actuallyadditions:item_potion_ring_advanced:0, Advanced Ring of Speed
+actuallyadditions:item_potion_ring_advanced:1, Advanced Ring of Haste
+actuallyadditions:item_potion_ring_advanced:1, Advanced Ring of Haste
+actuallyadditions:item_potion_ring_advanced:2, Advanced Ring of Strength
+actuallyadditions:item_potion_ring_advanced:2, Advanced Ring of Strength
+actuallyadditions:item_potion_ring_advanced:3, Advanced Ring of Jump Boost
+actuallyadditions:item_potion_ring_advanced:3, Advanced Ring of Jump Boost
+actuallyadditions:item_potion_ring_advanced:4, Advanced Ring of Regeneration
+actuallyadditions:item_potion_ring_advanced:4, Advanced Ring of Regeneration
+actuallyadditions:item_potion_ring_advanced:5, Advanced Ring of Resistance
+actuallyadditions:item_potion_ring_advanced:5, Advanced Ring of Resistance
+actuallyadditions:item_potion_ring_advanced:6, Advanced Ring of Fire Resistance
+actuallyadditions:item_potion_ring_advanced:6, Advanced Ring of Fire Resistance
+actuallyadditions:item_potion_ring_advanced:7, Advanced Ring of Water Breathing
+actuallyadditions:item_potion_ring_advanced:7, Advanced Ring of Water Breathing
+actuallyadditions:item_potion_ring_advanced:8, Advanced Ring of Invisibility
+actuallyadditions:item_potion_ring_advanced:8, Advanced Ring of Invisibility
+actuallyadditions:item_potion_ring_advanced:9, Advanced Ring of Night Vision
+actuallyadditions:item_potion_ring_advanced:9, Advanced Ring of Night Vision
+actuallyadditions:item_hairy_ball, Ball of Fur
+actuallyadditions:item_coffee_beans, Coffee Beans
+actuallyadditions:item_rice_seed, Rice Seeds
+actuallyadditions:item_canola_seed, Canola Seeds
+actuallyadditions:item_flax_seed, Flax Seeds
+actuallyadditions:item_coffee_seed, Coffee Seeds
+actuallyadditions:item_pickaxe_emerald, Emerald Pickaxe
+actuallyadditions:item_axe_emerald, Emerald Axe
+actuallyadditions:item_shovel_emerald, Emerald Shovel
+actuallyadditions:item_sword_emerald, Emerald Sword
+actuallyadditions:item_hoe_emerald, Emerald Hoe
+actuallyadditions:item_pickaxe_obsidian, Obsidian Pickaxe
+actuallyadditions:item_axe_obsidian, Obsidian Axe
+actuallyadditions:item_shovel_obsidian, Obsidian Shovel
+actuallyadditions:item_sword_obsidian, Obsidian Sword
+actuallyadditions:item_hoe_obsidian, Obsidian Hoe
+actuallyadditions:item_pickaxe_quartz, Black Quartz Pickaxe
+actuallyadditions:item_axe_quartz, Black Quartz Axe
+actuallyadditions:item_shovel_quartz, Black Quartz Shovel
+actuallyadditions:item_sword_quartz, Black Quartz Sword
+actuallyadditions:item_hoe_quartz, Black Quartz Hoe
+actuallyadditions:wooden_paxel, Wooden AIOT
+actuallyadditions:stone_paxel, Stone AIOT
+actuallyadditions:iron_paxel, Iron AIOT
+actuallyadditions:gold_paxel, Golden AIOT
+actuallyadditions:diamond_paxel, Diamond AIOT
+actuallyadditions:emerald_paxel, Emerald AIOT
+actuallyadditions:obsidian_paxel, Obsidian AIOT
+actuallyadditions:quartz_paxel, Black Quartz AIOT
+actuallyadditions:item_pickaxe_crystal_red, Restonia Crystal Pickaxe
+actuallyadditions:item_axe_crystal_red, Restonia Crystal Axe
+actuallyadditions:item_shovel_crystal_red, Restonia Crystal Shovel
+actuallyadditions:item_sword_crystal_red, Restonia Crystal Sword
+actuallyadditions:item_hoe_crystal_red, Restonia Crystal Hoe
+actuallyadditions:item_helm_crystal_red, Restonia Crystal Helmet
+actuallyadditions:item_chest_crystal_red, Restonia Crystal Chestplate
+actuallyadditions:item_pants_crystal_red, Restonia Crystal Pants
+actuallyadditions:item_boots_crystal_red, Restonia Crystal Boots
+actuallyadditions:item_paxel_crystal_red, Restonia Crystal AIOT
+actuallyadditions:item_pickaxe_crystal_blue, Palis Crystal Pickaxe
+actuallyadditions:item_axe_crystal_blue, Palis Crystal Axe
+actuallyadditions:item_shovel_crystal_blue, Palis Crystal Shovel
+actuallyadditions:item_sword_crystal_blue, Palis Crystal Sword
+actuallyadditions:item_hoe_crystal_blue, Palis Crystal Hoe
+actuallyadditions:item_helm_crystal_blue, Palis Crystal Helmet
+actuallyadditions:item_chest_crystal_blue, Palis Crystal Chestplate
+actuallyadditions:item_pants_crystal_blue, Palis Crystal Pants
+actuallyadditions:item_boots_crystal_blue, Palis Crystal Boots
+actuallyadditions:item_paxel_crystal_blue, Palis Crystal AIOT
+actuallyadditions:item_pickaxe_crystal_light_blue, Diamatine Crystal Pickaxe
+actuallyadditions:item_axe_crystal_light_blue, Diamatine Crystal Axe
+actuallyadditions:item_shovel_crystal_light_blue, Diamatine Crystal Shovel
+actuallyadditions:item_sword_crystal_light_blue, Diamatine Crystal Sword
+actuallyadditions:item_hoe_crystal_light_blue, Diamatine Crystal Hoe
+actuallyadditions:item_helm_crystal_light_blue, Diamatine Crystal Helmet
+actuallyadditions:item_chest_crystal_light_blue, Diamatine Crystal Chestplate
+actuallyadditions:item_pants_crystal_light_blue, Diamatine Crystal Pants
+actuallyadditions:item_boots_crystal_light_blue, Diamatine Crystal Boots
+actuallyadditions:item_paxel_crystal_light_blue, Diamatine Crystal AIOT
+actuallyadditions:item_pickaxe_crystal_black, Void Crystal Pickaxe
+actuallyadditions:item_axe_crystal_black, Void Crystal Axe
+actuallyadditions:item_shovel_crystal_black, Void Crystal Shovel
+actuallyadditions:item_sword_crystal_black, Void Crystal Sword
+actuallyadditions:item_hoe_crystal_black, Void Crystal Hoe
+actuallyadditions:item_helm_crystal_black, Void Crystal Helmet
+actuallyadditions:item_chest_crystal_black, Void Crystal Chestplate
+actuallyadditions:item_pants_crystal_black, Void Crystal Pants
+actuallyadditions:item_boots_crystal_black, Void Crystal Boots
+actuallyadditions:item_paxel_crystal_black, Void Crystal AIOT
+actuallyadditions:item_pickaxe_crystal_green, Emeradic Crystal Pickaxe
+actuallyadditions:item_axe_crystal_green, Emeradic Crystal Axe
+actuallyadditions:item_shovel_crystal_green, Emeradic Crystal Shovel
+actuallyadditions:item_sword_crystal_green, Emeradic Crystal Sword
+actuallyadditions:item_hoe_crystal_green, Emeradic Crystal Hoe
+actuallyadditions:item_helm_crystal_green, Emeradic Crystal Helmet
+actuallyadditions:item_chest_crystal_green, Emeradic Crystal Chest
+actuallyadditions:item_pants_crystal_green, Emeradic Crystal Pants
+actuallyadditions:item_boots_crystal_green, Emeradic Crystal Boots
+actuallyadditions:item_paxel_crystal_green, Emeradic Crystal AIOT
+actuallyadditions:item_pickaxe_crystal_white, Enori Crystal Pickaxe
+actuallyadditions:item_axe_crystal_white, Enori Crystal Axe
+actuallyadditions:item_shovel_crystal_white, Enori Crystal Shovel
+actuallyadditions:item_sword_crystal_white, Enori Crystal Sword
+actuallyadditions:item_hoe_crystal_white, Enori Crystal Hoe
+actuallyadditions:item_helm_crystal_white, Enori Crystal Helmet
+actuallyadditions:item_chest_crystal_white, Enori Crystal Chest
+actuallyadditions:item_pants_crystal_white, Enori Crystal Pants
+actuallyadditions:item_boots_crystal_white, Enori Crystal Boots
+actuallyadditions:item_paxel_crystal_white, Enori Crystal AIOT
 sexmod:allies_lamp, Allies Lamp
 sexmod:dragon_staff, Dragon Staff
 sexmod:tribe_egg, Tribe egg
